@@ -1,0 +1,19 @@
+.fbheader{
+    background-color: #3c5a98;
+    height: 15%;
+    min-width: 100%;
+    color: white;
+}
+#btn{
+    background-color: #4267b2;
+    color: white;
+    line-height: 0px;
+}
+.form-controlsetting{
+    height: 25px !important;
+}
+select{
+    width: 70px!important;
+    height: 30px!important;
+    text-align: center;
+}
